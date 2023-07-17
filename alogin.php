@@ -25,7 +25,7 @@ body {
 	border:2px solid black;
 	border-radius:10px;
 	width:600px;
-	height:400px;
+	height:500px;
 	background-color:white;
 	font-family:andalus;
 	font-size:large;

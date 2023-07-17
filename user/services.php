@@ -187,6 +187,10 @@ body
 				z-index:2;
 				width:150px;
 			}
+		# buttonappoint
+		{
+			margin : 5px;
+		}
 </style>
 
 </head>
@@ -259,18 +263,22 @@ body
 				}
 			}	
 		?>
-
-		<br><br><br><hr><br><br>
+		</div>
+		
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr><br><br>
+		<div id="buttonappoint">
 		<center>
 			<a class=bu href=appointment.php?Appointment_Id=$id>Appointment For Other Services</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 			<a class=bu href=makeuporder.php?Makeup_Id=$id>Appointment For Makeup Order</a>
 		</center>
+		</div>
 		
-	</div>
+	
 </center>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 

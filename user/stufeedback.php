@@ -22,7 +22,7 @@ body {
 	border:2px solid black;
 	border-radius:10px;
 	width:500px;
-	height:600px;
+	height:700px;
 	background-color:white;
 	font-family:andalus;
 	font-size:large;
